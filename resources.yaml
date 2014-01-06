@@ -1,0 +1,104 @@
+- dir: .
+  url: git@github.com:AndreaCensi/env_14autrob.git
+
+- dir: docs/14autrob
+  url: ssh://git@ac.repositoryhosting.com/ac/14autrob.git
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+  branch: env_14autrob
+
+# - dir: src/contracts
+#   url: git@github.com:AndreaCensi/contracts.git
+#   branch: env_jbds
+
+# - dir: src/latex_gen
+#   url: git@github.com:AndreaCensi/latex_gen.git
+#   branch: env_jbds
+
+# - dir: src/compmake
+#   url: git@github.com:AndreaCensi/compmake.git
+#   branch: env_jbds
+
+# - dir: src/geometry
+#   url: git@github.com:AndreaCensi/geometry.git
+#   branch: env_jbds
+
+# - dir: src/procgraph
+#   url: git@github.com:AndreaCensi/procgraph.git
+#   branch: env_jbds
+
+# - dir: src/reprep
+#   url: git@github.com:AndreaCensi/reprep.git
+#   branch: env_jbds
+
+# - dir: src/conf_tools
+#   url: git@github.com:AndreaCensi/conf_tools.git
+#   branch: env_jbds
+
+# - dir: src/boot_olympics
+#   url: git@github.com:AndreaCensi/boot_olympics.git
+#   branch: env_jbds
+
+# - dir: src/rosstream2boot
+#   url: git@github.com:AndreaCensi/rosstream2boot.git
+#   branch: env_jbds
+
+# - dir: src/ros_node_utils
+#   url: git@github.com:AndreaCensi/ros_node_utils.git
+#   branch: env_jbds
+
+# - dir: src/vehicles
+#   url: git@github.com:AndreaCensi/vehicles.git
+#   branch: env_jbds
+
+# - dir: src/bvapps
+#   url: git@github.com:AndreaCensi/bvapps.git
+#   branch: env_jbds
+
+# - dir: src/astatsa
+#   url: git@github.com:AndreaCensi/astatsa.git
+#   branch: env_jbds
+
+# - dir: src/boot_agents
+#   url: git@github.com:AndreaCensi/boot_agents.git
+#   branch: env_jbds
+
+# - dir: src/quickapp
+#   url: git@github.com:AndreaCensi/quickapp.git
+#   branch: env_jbds
+
+# - dir: src/yc1304
+#   url: git@github.com:AndreaCensi/yc1304.git
+#   branch: env_jbds
+
+# - dir: src/caltech_youbot
+#   url: git@github.com:AndreaCensi/caltech_youbot.git
+#   branch: env_jbds
+
+# - dir: src/pysnip
+#   url: git@github.com:AndreaCensi/pysnip.git
+#   branch: env_jbds
+
+# - dir: docs/12-censi-thesis-bv
+#   url: ssh://git@ac.repositoryhosting.com/ac/12-censi-thesis-bv.git
+#   branch: env_jbds
+
+# - dir: src/latex_symbol_list
+#   url: git@github.com:AndreaCensi/latex_symbol_list.git
+#   branch: env_jbds
+
+# - dir: src/pysnip
+#   url: git@github.com:AndreaCensi/pysnip.git
+#   branch: env_jbds
+
+
+# ---
+# dir: src/vehicles_murraylab
+# url: 192.168.1.1:/var/repo/vehicles_murraylab.git
+
+# ---
+# dir: src/cob_common
+# url: https://github.com/ipa320/cob_common.git
+
+
